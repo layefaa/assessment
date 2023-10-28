@@ -1,0 +1,162 @@
+{
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Coding",
+      "description": "Learn the basics of coding with our comprehensive courses."
+    },
+    {
+      "id": 2,
+      "name": "GMAT",
+      "description": "Prepare for the GMAT with our expert-led courses."
+    },
+    {
+      "id": 3,
+      "name": "IELTS",
+      "description": "Prepare for the IELTS with our expert-led courses."
+    },
+    {
+      "id": 4,
+      "name": "Math",
+      "description": "Learn the basics of math with our comprehensive courses."
+    },
+    {
+      "id": 5,
+      "name": "Science",
+      "description": "Learn the basics of science with our comprehensive courses."
+    },
+    {
+      "id": 6,
+      "name": "History",
+      "description": "Learn the basics of history with our comprehensive courses."
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "name": "Python Programming",
+      "description": "Learn the basics of Python programming with this comprehensive course.",
+      "startDate": "2023-08-12",
+      "endDate": "2023-09-18",
+      "location": "Online",
+      "subjectId": 1
+    },
+    {
+      "id": 2,
+      "name": "GMAT Quantitative Reasoning",
+      "description": "Master the GMAT quantitative reasoning section with this expert-led course.",
+      "startDate": "2023-08-18",
+      "endDate": "2023-09-24",
+      "location": "Physical",
+      "subjectId": 2
+    },
+    {
+      "id": 3,
+      "name": "IELTS Writing",
+      "description": "Improve your IELTS writing score with this expert-led course.",
+      "startDate": "2023-08-24",
+      "endDate": "2023-09-30",
+      "location": "Online",
+      "subjectId": 3
+    },
+    {
+      "id": 4,
+      "name": "Algebra",
+      "description": "Learn the basics of algebra with this comprehensive course.",
+      "startDate": "2023-08-12",
+      "endDate": "2023-09-18",
+      "location": "Online",
+      "subjectId": 4
+    },
+    {
+      "id": 5,
+      "name": "Biology",
+      "description": "Learn the basics of biology with this comprehensive course.",
+      "startDate": "2023-08-18",
+      "endDate": "2023-09-24",
+      "location": "Physical",
+      "subjectId": 5
+    },
+    {
+      "id": 6,
+      "name": "Sport",
+      "description": "Learn the basics of world history with this comprehensive course.",
+      "startDate": "2023-08-24",
+      "endDate": "2023-09-30",
+      "location": "Online",
+      "subjectId": 6
+    },
+    {
+      "id": 7,
+      "name": "World History",
+      "description": "Learn the basics of world history with this comprehensive course.",
+      "startDate": "2023-08-24",
+      "endDate": "2023-09-30",
+      "location": "Online",
+      "subjectId": 6
+    },
+    {
+      "id": 8,
+      "name": "World Game",
+      "description": "Learn the basics of world history with this comprehensive course.",
+      "startDate": "2023-08-24",
+      "endDate": "2023-09-30",
+      "location": "Online",
+      "subjectId": 2
+    },
+    {
+      "id": 9,
+      "name": "World History",
+      "description": "Learn the basics of world history with this comprehensive course.",
+      "startDate": "2023-08-24",
+      "endDate": "2023-09-30",
+      "location": "Physical",
+      "subjectId": 3
+    },
+    {
+      "name": "jas",
+      "description": "sdfdsfdsf",
+      "startDate": "2023-08-24",
+      "endDate": "2023-09-30",
+      "location": "online",
+      "subjectId": 3,
+      "id": 10
+    },
+    {
+      "name": "Test Class",
+      "description": "Test Description",
+      "startDate": "2023-08-24",
+      "endDate": "2023-09-30",
+      "location": "online",
+      "subjectId": 3,
+      "id": 11
+    },
+    {
+      "name": "Test Class",
+      "description": "Another Test",
+      "startDate": "2023-08-24",
+      "endDate": "2023-09-30",
+      "location": "physical",
+      "subjectId": 5,
+      "id": 12
+    },
+    {
+      "name": "Test Class",
+      "description": "res trs",
+      "startDate": "2023-08-24",
+      "endDate": "2023-09-30",
+      "location": "physical",
+      "subjectId": 1,
+      "id": 13
+    },
+    {
+      "name": "Maths",
+      "description": "For numbers",
+      "startDate": "2023-08-24",
+      "endDate": "2023-09-30",
+      "location": "online",
+      "subjectId": 5,
+      "id": 14
+    }
+  ]
+}
